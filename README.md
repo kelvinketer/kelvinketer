@@ -1,19 +1,28 @@
-# Hi there, I'm Kelvin Keter! 👋
+<div align="center">
+  <img src="https://imgur.com/AddSj2q.png" width="100%" alt="Kelvin Keter Header Banner" />
+</div>
 
-### Software Developer | Tech Entrepreneur | Problem Solver
+<h1 align="center">Hi there, I'm Kelvin Keter! 👋</h1>
 
-I am a **BSc. Computer Technology student at JKUAT** and a passionate developer focused on building scalable solutions for real-world problems. My work bridges the gap between technology and business, with a specific focus on **Fintech**, **AgriTech**, and **E-commerce** solutions in Kenya.
+<p align="center">
+  <b>Software Developer | Tech Entrepreneur | Problem Solver</b><br><br>
+  Building scalable solutions for Fintech, AgriTech, and E-commerce in Kenya.
+</p>
 
-Currently, I serve as the **CEO of Oletai Computing & Telecommunications** and Project Manager at **Water4Wildlife Maasai Mara Foundation**, combining my technical skills with leadership in conservation and business operations.
+---
+
+### 🧐 About Me
+
+I am a **BSc. Computer Technology student** and a passionate developer. I bridge the gap between technology and business, currently serving as the **CEO of Oletai Computing & Telecommunications** and assisting with projects at **Water4Wildlife Maasai Mara Foundation**.
 
 ---
 
 ### 🛠️ Languages and Tools
 
 * **Languages:** Python (Primary), JavaScript, HTML5, CSS3
-* **Frameworks:** Django, React
+* **Frameworks:** Django, Flask, React
 * **Focus Areas:** Backend Development, API Design, Data Structures & Algorithms
-* **Tools:** Git, GitHub, VS Code
+* **Tools:** Git, GitHub, VS Code, Postman
 
 ---
 
@@ -28,13 +37,17 @@ Currently, I serve as the **CEO of Oletai Computing & Telecommunications** and P
 
 ### 📈 GitHub Stats
 
-![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinketer&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinketer&layout=compact&theme=radical)
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvinketer&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinketer&layout=compact&theme=radical"/>
+</a>
+</p>
 
 ---
 
 ### 📫 Connect with Me
 
-* **Location:** Juja, Kenya 🇰🇪
+* **Location:** Nairobi, Kenya 🇰🇪
 * **Focus:** I'm currently looking to collaborate on open-source Python projects and AgriTech innovations.
 * **Reach out:** [https://www.linkedin.com/in/kelvin-keter/]
