@@ -1,56 +1,71 @@
 # Kelvin Keter
-### Software Engineer | Researcher | Entrepreneur
+### Software Engineer | Researcher | Tech Entrepreneur
 
-I am a software engineer and **BSc. Computer Technology undergraduate at JKUAT**, committed to advancing research and innovation in the African technology ecosystem.
+> *Building scalable digital infrastructure for the African Fintech and AgriTech ecosystems.*
 
-My work focuses on the intersection of **software engineering and socio-economic development**, specifically applying Python and Django to solve challenges in Fintech, AgriTech, and E-commerce. I view technology not just as a tool, but as a discipline requiring lifelong learning and rigorous application.
+I am a **Software Engineer** and **Researcher** based in Nairobi, Kenya. Currently completing my BSc. in Computer Technology at **JKUAT**, I combine academic rigor with practical execution.
 
----
-
-### Professional Focus
-
-* **Research & Development:** Building scalable backend architectures and APIs for financial and agricultural services.
-* **Leadership:** CEO of **Oletai Computing & Telecommunications**, overseeing technical strategy and business operations.
-* **Community:** Project Manager at **Water4Wildlife Maasai Mara Foundation**, applying technical project management to conservation efforts.
+My engineering philosophy centers on **Clean Architecture**, **System Scalability**, and **Data-Driven Decision Making**. I do not just write code; I build sustainable systems that solve complex socio-economic problems in the developing world.
 
 ---
 
-### Technical Competencies
+### 🛠️ Technical Arsenal
 
-* **Core Stack:** Python (Advanced), JavaScript, SQL
-* **Frameworks:** Django, React, Flask
-* **Infrastructure:** Linux, Git, Docker, Cloud Deployment
-* **Interests:** Data Structures & Algorithms, System Design, Open Source Contribution
+**Core Infrastructure & Backend**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+**Frontend & Interface**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-### Selected Projects
-
-* **[RahisiPay](https://github.com/kelvinketer/RahisiPay)**
-    * *Description:* A secure digital financial service provider API designed for reliability and speed.
-    * *Stack:* Python, Django Rest Framework.
-
-* **[Laptop Place Kenya](https://github.com/kelvinketer/laptop-place-kenya)**
-    * *Description:* An e-commerce platform featuring dynamic inventory management algorithms.
-    * *Stack:* Django, PostgreSQL.
-
-* **[BuyCars Africa](https://github.com/kelvinketer/buycars-africa)**
-    * *Description:* A digital automotive marketplace connecting buyers to dealerships.
-    * *Stack:* HTML5, CSS3, JavaScript.
+**DevOps & Tools**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### Activity & Contributions
+### 🔬 Engineering & Research Focus
 
-![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinketer&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true)
+My current research and development work is focused on:
+* **Agri-Finance Algorithms:** Developing credit scoring models for unbanked farmers using alternative data points.
+* **API Security:** Implementing robust authentication protocols (OAuth2, JWT) for financial gateways.
+* **Process Automation:** Reducing operational friction in SMEs through custom ERP solutions.
 
 ---
 
-### Connect
+### 🚀 Selected Deployments
 
-<a href="https://www.linkedin.com/in/kelvin-keter/">
-  <img src="https://img.shields.io/badge/LinkedIn-Kelvin%20Keter-blue?style=flat&logo=linkedin" alt="Kelvin Keter LinkedIn">
-</a>
+| Project | Role | Engineering Highlights |
+| :--- | :--- | :--- |
+| **[RahisiPay](https://github.com/kelvinketer/RahisiPay)** | **Lead Engineer** | Designed a secure REST API for financial transactions. Focused on concurrency handling and ACID compliance for reliable payments. |
+| **[Laptop Place Kenya](https://github.com/kelvinketer/laptop-place-kenya)** | **Full Stack Dev** | Built a custom Django e-commerce engine. Implemented dynamic inventory caching to handle high-traffic loads efficiently. |
+| **[BuyCars Africa](https://github.com/kelvinketer/buycars-africa)** | **Frontend Arch.** | Created a responsive, mobile-first marketplace interface. Optimized asset delivery for low-bandwidth environments. |
 
-* **Location:** Nairobi, Kenya
-* **Focus:** Open-source contributions in AgriTech & Fintech.
+---
+
+### 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvinketer&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=000&icon_color=000" alt="Kelvin's GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinketer&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=000" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Connect
+
+* **Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/kelvin-keter/)
+* **Email:** [info@computingprojects.org]
+* **Location:** Nairobi, Kenya 🇰🇪
+
+---
+<p align="center">
+  <i>"Education is the passport to the future, for tomorrow belongs to those who prepare for it today."</i>
+</p>
