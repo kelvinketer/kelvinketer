@@ -61,7 +61,7 @@ My current research and development work is focused on:
 
 ### 🤝 Connect
 
-* **Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/kelvin-keter/
+* **LinkedIn:** https://www.linkedin.com/in/kelvin-keter/
 * **Email:** info@computingprojects.org
 * **Location:** Nairobi, Kenya 🇰🇪
 
