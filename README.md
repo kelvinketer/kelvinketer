@@ -3,9 +3,7 @@
 
 > *Building scalable digital infrastructure for the African Fintech and AgriTech ecosystems.*
 
-I am a **Software Engineer** and **Researcher** based in Nairobi, Kenya. Currently completing my BSc. in Computer Technology at **JKUAT**, I combine academic rigor with practical execution.
-
-My engineering philosophy centers on **Clean Architecture**, **System Scalability**, and **Data-Driven Decision Making**. I do not just write code; I build sustainable systems that solve complex socio-economic problems in the developing world.
+I am a **Software Engineer** and **Researcher** based in Nairobi, Kenya. Currently completing my BSc. in Computer Technology at **JKUAT**, I combine academic rigour with practical execution. My engineering philosophy centres on **Clean Architecture**, **System Scalability**, and **Data-Driven Decision Making**. I do not just write code; I build sustainable systems that solve complex socio-economic problems in the developing world.
 
 ---
 
@@ -44,7 +42,7 @@ My current research and development work is focused on:
 | :--- | :--- | :--- |
 | **[RahisiPay](https://github.com/kelvinketer/RahisiPay)** | **Lead Engineer** | Designed a secure REST API for financial transactions. Focused on concurrency handling and ACID compliance for reliable payments. |
 | **[Laptop Place Kenya](https://github.com/kelvinketer/laptop-place-kenya)** | **Full Stack Dev** | Built a custom Django e-commerce engine. Implemented dynamic inventory caching to handle high-traffic loads efficiently. |
-| **[BuyCars Africa](https://github.com/kelvinketer/buycars-africa)** | **Frontend Arch.** | Created a responsive, mobile-first marketplace interface. Optimized asset delivery for low-bandwidth environments. |
+| **[BuyCars Africa](https://github.com/kelvinketer/buycars-africa)** | **Frontend Arch.** | Created a responsive, mobile-first marketplace interface. Optimised asset delivery for low-bandwidth environments. |
 
 ---
 
