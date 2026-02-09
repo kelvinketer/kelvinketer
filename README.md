@@ -3,7 +3,7 @@
 
 > *Building scalable digital infrastructure for the African Fintech and AgriTech ecosystems.*
 
-I am a **Software Engineer** and **Researcher** based in Nairobi, Kenya. Currently completing my BSc. in Computer Technology at **JKUAT**, I combine academic rigour with practical execution. My engineering philosophy centres on **Clean Architecture**, **System Scalability**, and **Data-Driven Decision Making**. I do not just write code; I build sustainable systems that solve complex socio-economic problems in the developing world.
+I am a **Software Engineer** and **Researcher** based in Nairobi, Kenya. Pursuing a BSc. in Computer Technology at **JKUAT**, I combine academic rigour with practical execution. My engineering philosophy centres on **Clean Architecture**, **System Scalability**, and **Data-Driven Decision Making**. I do not just write code; I build sustainable systems that solve complex socio-economic problems in the developing world.
 
 ---
 
